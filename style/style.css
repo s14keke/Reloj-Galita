@@ -1,4 +1,9 @@
 
+body{
+    background-color: rgb(183, 236, 240);
+}
+
+
 .reloj-digital{
     justify-content: center;
     background-color: rgb(255, 192, 203);
@@ -8,7 +13,7 @@
     user-select: none;
     padding: 0 2rem 0 0;
     border: 0.5rem solid #8F6CF5;
-    margin: 5rem 25rem;
+    margin: 13rem 25rem;
 }
 
 .semana{
